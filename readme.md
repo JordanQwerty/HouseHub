@@ -1,1 +1,1 @@
-This is the myCollege App Application @Jordan
+A web application using MERN stack 
